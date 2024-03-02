@@ -10,8 +10,8 @@ Currently, in love with Next.js—adding a touch of magic to my projects! 🧙�
 💬 **Connect:**
 Follow my coding escapades on Instagram and GitHub. Let's geek out together! 🤓
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/your_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raunak0713) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Raunak0713)
 
 Stay curious, keep coding! 🌟
 
