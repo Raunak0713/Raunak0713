@@ -11,7 +11,7 @@ Currently, in love with Next.js—adding a touch of magic to my projects! 🧙�
 Follow my coding escapades on Instagram and GitHub. Let's geek out together! 🤓
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raunak0713) 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Raunak0713)
+[![LeetCode](https://iconscout.com/free-icon/leetcode-3521542)](https://leetcode.com/u/raunakbhanarkar7/)
 
 Stay curious, keep coding! 🌟
 
