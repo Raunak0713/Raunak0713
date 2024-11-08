@@ -1,5 +1,5 @@
 💫 **About Me:**
-Hey 👋! I'm a pre-final year CSE student at VIT Bhopal University, diving into the world of React and Next.js, crafting web wonders, and unraveling data structures. By day, I code; by night, I dream of upcoming tech! 🚀
+Hey 👋! I'm a final year CSE student at VIT Bhopal University, diving into the world of React and Next.js, crafting web wonders, and unraveling data structures. By day, I code; by night, I dream of upcoming tech! 🚀
 
 👯 **Projects:**
 Dancing with React and Next.js, creating pixel-perfect experiences. Join me in this coding journey! 💻✨
